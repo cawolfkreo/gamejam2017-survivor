@@ -2,10 +2,10 @@
 Hello, I made this game some months ago in the first game jam I've ever been. I was alone and I basically made all of this in 24 hours on the campus of my university.
 
 I need to say thanks to the two guys that helped me with all the sounds you can find here,
-*Music:
-  *Diego Alejandro Tovar
-*SFX:
-  *José David Romero
+* Music:
+  * Diego Alejandro Tovar
+* SFX:
+  * José David Romero
 These two did an amazing work while I was runing making this game. I loved doing it and I'll be practicing more with unity.
   
 # How to play it
