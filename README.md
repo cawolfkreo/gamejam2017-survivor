@@ -15,3 +15,8 @@ there are two ways you can use to play the game:
 
 # Gamejam
 If you want to check other games of the jam or how bad my game did (lol), you can do it [here](http://jams.gamejolt.io/gamejamuniandes2017/games?category=2131)
+
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+this project has the StandardMIT [license](https://github.com/cawolfkreo/gamejam2017-survivor/blob/master/LICENSE).
